@@ -43,6 +43,7 @@ I enjoy learning new technologies, solving problems, and building practical solu
 
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
