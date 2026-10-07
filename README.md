@@ -1,39 +1,73 @@
-# 👋 Hi, I'm Sakshi Pandey
-
-### 🎓 CSE Student | 🤖 Machine Learning Enthusiast | 📊 ML & Data Science Engineer
+# 👋 Hi, I'm **Sakshi Pandey**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Deep+Learning+Enthusiast;AI+%26+ML+Learner;Always+Learning+%26+Building" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=Sakshi%20Pandey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <b>🎓 CSE Student</b> &nbsp;•&nbsp;
+  <b>🤖 Machine Learning Enthusiast</b> &nbsp;•&nbsp;
+  <b>📊 ML & Data Science Engineer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Deep+Learning+Enthusiast;AI+%26+ML+Learner;Always+Learning+%26+Building" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshiipandey&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
+> 💫 **Learning. Building. Experimenting. Improving.**
+
 I'm a **Computer Science Engineering student** with a growing interest in **Machine Learning, Data Science, Artificial Intelligence, and Deep Learning**.
 
 I enjoy learning new technologies, solving problems, and building practical solutions while continuously improving my technical skills.
+
+<table>
+<tr>
+<td width="50%">
 
 * 🎓 Computer Science Engineering Student
 * 🤖 Interested in **Machine Learning & Artificial Intelligence**
 * 📊 Exploring **Data Science & Data Analytics**
 * 🧠 Learning **Deep Learning & Neural Networks**
 * ☕ Java Programmer
+
+</td>
+<td width="50%">
+
 * 👁️ Interested in **Computer Vision**
 * 🌱 Continuously learning and exploring new technologies
 * 💡 Passionate about solving real-world problems through technology
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 🔭 Currently Exploring
+# 🔭 Currently Exploring
 
-* 🤖 Machine Learning
-* 📊 Data Science & Data Analytics
-* 🧠 Deep Learning
-* 👁️ Computer Vision
-* ⚡ Artificial Neural Networks
-* 🌐 Machine Learning Model Deployment
-* ✨ Artificial Intelligence & Generative AI
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-🤖-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-📊-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-🧠-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-👁️-36BCF7?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Artificial%20Neural%20Networks-⚡-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML%20Model%20Deployment-🌐-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-✨-36BCF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-✨-36BCF7?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -41,20 +75,19 @@ I enjoy learning new technologies, solving problems, and building practical solu
 
 ## ☕ Programming Language
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ---
 
 ## 🤖 Machine Learning & Data Science
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -65,11 +98,11 @@ I enjoy learning new technologies, solving problems, and building practical solu
 
 ## 🌐 Tools & Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
@@ -78,31 +111,37 @@ I enjoy learning new technologies, solving problems, and building practical solu
 # 🌱 Currently Learning
 
 ```text
-Machine Learning
-Data Science
-Deep Learning
-Artificial Neural Networks
-Computer Vision
-PyTorch
-Artificial Intelligence
-Generative AI
-Data Analytics
-Model Deployment
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║   🤖 Machine Learning                              ║
+║   📊 Data Science                                  ║
+║   🧠 Deep Learning                                 ║
+║   ⚡ Artificial Neural Networks                    ║
+║   👁️ Computer Vision                              ║
+║   🔥 PyTorch                                       ║
+║   ✨ Artificial Intelligence                       ║
+║   🌟 Generative AI                                 ║
+║   📈 Data Analytics                                ║
+║   🌐 Model Deployment                              ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
 
 # 🎯 Goals
 
-* 🚀 Build strong foundations in Machine Learning & Data Science
-* 🧠 Deepen my knowledge of Deep Learning
-* 👁️ Explore Computer Vision
-* 🤖 Learn and experiment with Artificial Intelligence
-* 📊 Improve Data Analysis & Data Science skills
-* 💻 Strengthen programming and problem-solving abilities
-* 🌐 Learn effective ML model deployment
-* 💼 Prepare for opportunities in AI/ML & Data Science
-* 🌟 Continuously grow as a technology professional
+| 🚀  | Goal                                                            |
+| --- | --------------------------------------------------------------- |
+| 🚀  | Build strong foundations in **Machine Learning & Data Science** |
+| 🧠  | Deepen my knowledge of **Deep Learning**                        |
+| 👁️ | Explore **Computer Vision**                                     |
+| 🤖  | Learn and experiment with **Artificial Intelligence**           |
+| 📊  | Improve **Data Analysis & Data Science** skills                 |
+| 💻  | Strengthen programming and problem-solving abilities            |
+| 🌐  | Learn effective **ML model deployment**                         |
+| 💼  | Prepare for opportunities in **AI/ML & Data Science**           |
+| 🌟  | Continuously grow as a technology professional                  |
 
 ---
 
@@ -133,9 +172,11 @@ Model Deployment
 
 # 💡 My Learning Philosophy
 
-```text
-Learn → Build → Experiment → Improve → Repeat 🔁
-```
+<p align="center">
+
+### **Learn → Build → Experiment → Improve → Repeat 🔁**
+
+</p>
 
 I believe in **learning by doing**, experimenting with new ideas, and continuously improving my skills.
 
@@ -158,9 +199,15 @@ I believe in **learning by doing**, experimenting with new ideas, and continuous
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sakshiipandey&label=Profile%20Views&style=flat" />
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshiipandey&label=Profile%20Views&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
