@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sakshi Pandey**
+# 👋 Hi!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=Sakshi%20Pandey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
