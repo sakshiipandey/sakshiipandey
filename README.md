@@ -1,7 +1,7 @@
 # 👋 Hi!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=180&section=header&text=Sakshi%20Pandey&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:2563EB&height=180&section=header&text=I%27m%20Sakshi%20Pandey&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
 </p>
 
 <p align="center">
